@@ -47,7 +47,7 @@ end)
 local textLabel = Instance.new("TextLabel", menu)
 textLabel.Size = UDim2.new(1, 0, 0, 60) -- Kích thước của dòng chữ
 textLabel.Position = UDim2.new(0, 0, 0.3, 0) -- Vị trí ở giữa menu
-textLabel.Text = "Your Text Here" -- Bạn có thể chỉnh sửa dòng chữ này
+textLabel.Text = "VIEW" -- Bạn có thể chỉnh sửa dòng chữ này
 textLabel.TextColor3 = Color3.fromRGB(255, 105, 180) -- Màu chữ hồng phát quang
 textLabel.BackgroundTransparency = 1 -- Làm nền trong suốt
 textLabel.TextScaled = true -- Tự động điều chỉnh kích thước chữ
